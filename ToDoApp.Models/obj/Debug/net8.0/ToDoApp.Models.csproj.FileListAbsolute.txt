@@ -1,0 +1,16 @@
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/bin/Debug/net8.0/ToDoApp.Models.deps.json
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/bin/Debug/net8.0/ToDoApp.Models.dll
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/bin/Debug/net8.0/ToDoApp.Models.pdb
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/bin/Debug/net8.0/Core.dll
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/bin/Debug/net8.0/Core.pdb
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.csproj.AssemblyReference.cache
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.AssemblyInfoInputs.cache
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.AssemblyInfo.cs
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.csproj.CoreCompileInputs.cache
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.sourcelink.json
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp..54FDE747.Up2Date
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.dll
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/refint/ToDoApp.Models.dll
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ToDoApp.Models.pdb
+/Users/mervebilgin/RiderProjects/ToDoApp/ToDoApp.Models/obj/Debug/net8.0/ref/ToDoApp.Models.dll
