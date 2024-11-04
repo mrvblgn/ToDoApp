@@ -9,5 +9,6 @@ public sealed record UpdateToDoRequest
         string Description, 
         DateTime StartDate, 
         DateTime EndDate,
-        Priority Priority
+        Priority Priority,
+        bool Completed
     );

@@ -9,6 +9,5 @@ public sealed record CreateToDoRequest
         DateTime StartDate,
         DateTime EndDate,
         Priority Priority,
-        int CategoryId,
-        string UserId
+        int CategoryId
     );

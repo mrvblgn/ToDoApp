@@ -8,11 +8,15 @@ public class ToDo : Entity<Guid>
     public string Description { get; set; }
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
-    public DateTime CreatedDate { get; set; }
     public Priority Priority { get; set; }
     public bool Completed { get; set; }
     public int CategoryId { get; set; }
     public Category Category { get; set; }
     public string UserId { get; set; }
     public User User { get; set; }
+
+    public ToDo()
+    {
+        Completed = false;
+    }
 }
