@@ -1,5 +1,6 @@
 using Core.Tokens.Configurations;
 using Core.Tokens.Services;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Identity;
 using ToDoApp.API.Middlewares;
 using ToDoApp.DataAccess;
@@ -13,6 +14,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+
 
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 builder.Services.AddDataAccessDependencies(builder.Configuration);

@@ -1,3 +1,6 @@
+using System.Reflection;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
 using ToDoApp.Service.Abstracts;
 using ToDoApp.Service.Concretes;
@@ -18,6 +21,9 @@ public static class ServiceDependecies
         services.AddScoped<ICategoryService, CategoryService>();
         services.AddScoped<IToDoService, ToDoService>();
         services.AddScoped<IUserService, UserService>();
+        
+        services.AddFluentValidationAutoValidation();
+        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
         
         return services;
     }

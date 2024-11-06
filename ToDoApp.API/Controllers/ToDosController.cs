@@ -56,7 +56,7 @@ public class ToDosController(IToDoService _toDoService) : ControllerBase
     }
     
     [HttpPost("add")]
-    public IActionResult Add([FromBody] CreateToDoRequest dto)
+    public IActionResult Add([FromBody]CreateToDoRequest dto)
     {
         var userId = HttpContext.User.Claims.FirstOrDefault(x=>x.Type==ClaimTypes.NameIdentifier).Value;
         var result = _toDoService.Add(dto,userId);
